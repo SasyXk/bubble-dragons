@@ -26,7 +26,7 @@ To download and play the game, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SasyXk/bubble-dragons.git
+   git clone https://github.com/sasyxk/bubble-dragons.git
    cd bubble-dragons
    
 
